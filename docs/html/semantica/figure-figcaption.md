@@ -14,7 +14,7 @@ Com `<aside>`, aprendemos que podemos colocar informações adicionais ao lado d
 
 <fieldset>
   <figure>
-    <img src="overwatch.png">
+    <img src="./overwatch.png">
   </figure>
 </fieldset>
 
@@ -35,7 +35,7 @@ Neste código, criamos um elemento `<figure>` para que possamos encapsular nossa
 
 <fieldset>
   <figure>
-  <img src="overwatch.png">
+  <img src="./overwatch.png">
   <figcaption>
     Esta imagem mostra personagens de Overwatch.
   </figcaption>

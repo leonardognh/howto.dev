@@ -14,7 +14,7 @@ HTML é composto de elementos. Esses elementos estruturam a página web e define
 
 O diagrama à seguir exibe um elemento de parágrafo HTML:
 
-![Anatomia HTML](../../assets/img/html-anatomia.png)
+![Anatomia HTML](html-anatomia.png)
 
 Como podemos ver, o elemento parágrafo é composto por:
 

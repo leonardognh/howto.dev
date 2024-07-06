@@ -1,5 +1,7 @@
 # Semântica
 
+![Semântica HTML](html-semantico.png)
+
 Ao construir páginas da web, usamos uma combinação de HTML não semântico e HTML semântico. A palavra semântico significa "relacionado ao significado", então elementos semânticos fornecem informações sobre o conteúdo entre as tags de abertura e fechamento.
 
 Ao usar HTML semântico, selecionamos elementos HTML com base em seu significado, não em como eles são apresentados. Elementos como `<div>` e `<span>` não são elementos semânticos, pois não fornecem contexto sobre o que está dentro dessas tags.

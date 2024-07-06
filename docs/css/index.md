@@ -6,7 +6,7 @@ Cascading Style Sheets ou CSS é uma linguagem que os desenvolvedores da web usa
 
 ## Anatomia
 
-<img src="css.png">
+![Anatomia CSS](css-anatomia.png)
 
 O diagrama à direita mostra dois métodos diferentes, ou sintaxes, para escrever código CSS. A primeira sintaxe mostra CSS aplicado como um conjunto de regras, enquanto a segunda mostra que ele foi escrito como um estilo inline. Dois métodos diferentes de escrever CSS podem parecer um pouco intimidadores no começo, mas não é tão ruim quanto parece!
 
