@@ -49,8 +49,34 @@ nav:
                       - Pattern (Máscara): html/elementos/body/form/validations/pattern.md
           - Atributos: html/elementos/atributos/index.md
           - RegEx: html/elementos/body/form/validations/regex.md
-      - Semantica: html/semantica/intro.md
-  - CSS: css/index.md
+      - Semantica:
+          - Introdução: html/semantica/intro.md
+          - Header e Nav: html/semantica/header-nav.md
+          - Main e Footer: html/semantica/main-footer.md
+          - Article e Section: html/semantica/article-section.md
+          - Aside: html/semantica/aside.md
+          - Figure e Figcaption: html/semantica/figure-figcaption.md
+          - Audio e Attributes: html/semantica/audio-attributes.md
+          - Video e Embed: html/semantica/video-embed.md
+  - CSS:
+      - Introdução: css/index.md
+      - Sintaxe Basica:
+          - Estilo em Linha: css/sintaxe-base/estilo-linha.md
+          - Folha de Estilo: css/sintaxe-base/folha-estilo.md
+          - Folha de Estilo Externa: css/sintaxe-base/folha-estilo-externa.md
+          - Linkar Estilo: css/sintaxe-base/link-estilo.md
+      - Seletores:
+          - Tipo: css/seletores/tipo.md
+          - Universal: css/seletores/universal.md
+          - Classe: css/seletores/classe.md
+          - Multiplas Classes: css/seletores/multi-classes.md
+          - Id: css/seletores/id.md
+          - Pseudo Classe: css/seletores/pseudo-classe.md
+          - Especificidade: css/seletores/especificidade.md
+          - Encadeamento: css/seletores/encadeamento.md
+          - Descendentes: css/seletores/descendentes.md
+          - Encadeamento e Especificidade: css/seletores/encadeamento-especificidade.md
+          - Multiplos Seletores: css/seletores/multi-seletores.md
   - JavaScript: js/index.md
   - TypeScript: ts/index.md
   - Angular: angular/index.md

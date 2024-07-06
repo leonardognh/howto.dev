@@ -2,9 +2,9 @@
 
 Ao construir páginas da web, usamos uma combinação de HTML não semântico e HTML semântico. A palavra semântico significa "relacionado ao significado", então elementos semânticos fornecem informações sobre o conteúdo entre as tags de abertura e fechamento.
 
-Ao usar HTML semântico, selecionamos elementos HTML com base em seu significado, não em como eles são apresentados. Elementos como <div> e <span> não são elementos semânticos, pois não fornecem contexto sobre o que está dentro dessas tags.
+Ao usar HTML semântico, selecionamos elementos HTML com base em seu significado, não em como eles são apresentados. Elementos como `<div>` e `<span>` não são elementos semânticos, pois não fornecem contexto sobre o que está dentro dessas tags.
 
-Por exemplo, em vez de usar um elemento <div> para conter nossas informações de cabeçalho, poderíamos usar um elemento <header>, que é usado como uma seção de título. Ao usar uma tag <header> em vez de uma <div>, fornecemos contexto sobre quais informações estão dentro da tag de abertura e fechamento.
+Por exemplo, em vez de usar um elemento `<div>` para conter nossas informações de cabeçalho, poderíamos usar um elemento `<header>`, que é usado como uma seção de título. Ao usar uma tag `<header>` em vez de uma `<div>`, fornecemos contexto sobre quais informações estão dentro da tag de abertura e fechamento.
 
 Por que usar HTML semântico?
 
