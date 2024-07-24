@@ -60,6 +60,19 @@ nav:
           - Video e Embed: html/semantica/video-embed.md
   - CSS:
       - Introdução: css/index.md
+      - Proposito:
+          - Introdução: css/proposito/index.md
+          - Background Color: css/proposito/backgound-color.md
+          - Background Image: css/proposito/background-image.md
+          - Color: css/proposito/color.md
+          - Font Family: css/proposito/font-family.md
+          - Font Size: css/proposito/font-size.md
+          - Font Weight: css/proposito/font-weight.md
+          - !important: css/proposito/important.md
+          - Opacity: css/proposito/opacity.md
+          - Text Align: css/proposito/text-align.md
+          - Multiplos Estilos: css/proposito/sets.md
+          - URLs: css/proposito/urls.md
       - Sintaxe Basica:
           - Estilo em Linha: css/sintaxe-base/estilo-linha.md
           - Folha de Estilo: css/sintaxe-base/folha-estilo.md
