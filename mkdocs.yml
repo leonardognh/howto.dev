@@ -68,7 +68,7 @@ nav:
           - Font Family: css/proposito/font-family.md
           - Font Size: css/proposito/font-size.md
           - Font Weight: css/proposito/font-weight.md
-          - !important: css/proposito/important.md
+          - Important: css/proposito/important.md
           - Opacity: css/proposito/opacity.md
           - Text Align: css/proposito/text-align.md
           - Multiplos Estilos: css/proposito/sets.md
